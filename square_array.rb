@@ -1,4 +1,4 @@
 def square_array(numbers)
   new_array = []
-  numbers.each do |numbers|
+  numbers.each_index do |numbers|
   
